@@ -114,3 +114,8 @@
     align-items: center;
     letter-spacing: 2px;
 }
+
+.button:hover{
+    background-color: #00acee;
+    color: white;
+}
